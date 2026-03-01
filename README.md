@@ -1,6 +1,8 @@
-# SQL Server Docker Development Environmentdock
+# SQL Server Docker Development Environment
 
 This setup provides a local SQL Server 2022 instance running in Docker with persistent data storage.
+
+Provides an optional installation of the AdventureWorks2022 sample database for testing.
 
 ## Quick Start
 
